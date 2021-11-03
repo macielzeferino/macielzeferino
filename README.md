@@ -1,8 +1,8 @@
-## Hello, I'm Maciel Zeferino !
+# Hello, Welcome to my profile !
+## I'm Maciel Zeferino 
+## Web developer
 
-### Front-end developer
-#### Studying html, css and javascript
-##### Always looking for new challenges
+
 
 <div align="center">
   <a href="https://github.com/macielzeferino">
