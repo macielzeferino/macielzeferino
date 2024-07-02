@@ -1,14 +1,12 @@
 # Bem vindo !
 ## Meu nome é Maciel Zeferino. 
 <p> 
-  Atualmente sou desenvolvedor front-end com foco em Html, Css, Java Script, ReactJs e NodeJs.</br>
-  Meu objetivo é depois que dominar a base de front-end, começar a estudar as tecnologias relacionadas a back-end</br>
-  E futuramente me tornar um desenvolvedor full-stack.</p> 
-  
-<p> 
-  Sou uma pessoa ativa que gosta de trabalhar em equipe, tem boa comunicação</br> 
-  gosto de trabalhar com metas e estou sempre em costante estudo e aprendizado</br> 
-</p>
+  Olá! Meu nome é Maciel Zeferino, tenho 20 anos e estou cursando o 1° período de Análise e Desenvolvimento de Sistemas, além de estar no 7° período de Ciências Contábeis. No meu perfil você pode encontrar algumas das minhas experiências profissionais 
+
+Em 2020, dei meus primeiros passos na programação, optando por me aventurar no mundo da Web com HTML, CSS e JavaScript. Aprofundando-me, descobri a biblioteca React.js e o framework Next.js, nos quais desenvolvi diversas interfaces. No entanto, foi no back-end que encontrei verdadeira inspiração e desejo de aprofundamento. Por isso, decidi concentrar meus esforços nessa área para me tornar um desenvolvedor back-end.
+
+Estou entusiasmado em expandir meus conhecimentos e contribuir para projetos desafiadores na indústria de tecnologia. Se você estiver interessado em se conectar ou discutir oportunidades de colaboração, não hesite em entrar em contato!</p> 
+
 
 ### Entre em contato
 <div>   
